@@ -1,0 +1,38 @@
+.course-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.course{
+    width: 230px;
+    height: 100%;
+    padding: 25px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 22, 84);
+}
+.course-title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+}
+.course-desc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.course-price{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: red;
+    text-align: right;
+    padding-right: 20px;
+}
+.course-link{
+    font-size: 15px;
+    text-decoration:none ;
+    text-align: right;
+
+}
