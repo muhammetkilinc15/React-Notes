@@ -1,0 +1,36 @@
+{
+    "users":[
+        {
+            "id":1,
+            "username":"mami07",
+            "password":"123",
+            "age":22
+        },
+        {
+            "id":2,
+            "username":"ugur31",
+            "password":"123",
+            "age":22
+        },
+        {
+            "id":3,
+            "username":"batu31",
+            "password":"123",
+            "age":22
+        },
+        {
+            "id":4,
+            "username":"beyza48",
+            "password":"123",
+            "age":22
+        }
+    ],
+    "blogs":[
+        {
+            "id":1,
+            "title":"react blog",
+            "createrId":1
+        }
+    ]
+    
+}
